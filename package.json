@@ -1,6 +1,6 @@
 {
-  "name": "word-count",
-  "version": "1.0.0",
+  "name": "word-metrics",
+  "version": "1.0.1",
   "description": "analyze a article/paragraph",
   "main": "lib/index.js",
   "scripts": {
