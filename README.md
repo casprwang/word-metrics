@@ -43,3 +43,7 @@ wordCount.createMetrics(simplifiedWords)
 ## API
 ### wordCount.simplify(text: string): string
 ### wordCount.metrics(text: string): object
+
+
+## License
+MIT © [Song Wang](https://songwang.io)
