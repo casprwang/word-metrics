@@ -41,8 +41,8 @@ wordCount.createMetrics(simplifiedWords)
 
 ```
 ## API
-#### wordCount.simplify(text: string): string
-#### wordCount.metrics(text: string): object
+**wordCount.simplify(text: string): string**
+**wordCount.metrics(text: string): object**
 
 
 ## License
